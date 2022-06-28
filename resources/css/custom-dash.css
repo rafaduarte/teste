@@ -1,0 +1,12 @@
+[class*=sidebar-dark-] {
+    background-color: #021948;
+}
+
+.navbar-white {
+    background-color: #032585;
+    color: #09213d;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: #ffffff;
+}
